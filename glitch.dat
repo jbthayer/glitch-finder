@@ -1,0 +1,6 @@
+  'silicon'                          !crystal
+   300.d0                            !temperature
+    2.d0       2.d0       0.d0       !primary reflection
+    0.d0       0.d0       1.d0       !phi=0 direction
+   12000.d0    13000.d0   101        !WL/energy range, # steps
+   -0.1d0       0.1d0     101        !phi range, # phi steps
